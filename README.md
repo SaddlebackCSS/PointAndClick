@@ -1,2 +1,2 @@
 # PointAndClick
-Point and click adventure repo
+Lets point and click some things
